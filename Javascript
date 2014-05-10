@@ -1,0 +1,7 @@
+Javascript 
+Primary Data Types
+ String
+ boolean
+ number
+ undefind
+ null
